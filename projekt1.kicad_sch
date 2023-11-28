@@ -4856,7 +4856,7 @@
     (property "Value" "V1" (at 124.46 97.79 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal" (at 123.19 97.79 0)
+    (property "Footprint" "TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm" (at 123.19 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 123.19 97.79 0)
