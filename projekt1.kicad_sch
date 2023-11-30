@@ -3704,7 +3704,7 @@
     (property "Value" "RC522" (at 160.655 91.44 90)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "" (at 147.32 107.95 0)
+    (property "Footprint" "My_Footprints_Library:RC522_I2C_B30x20mm" (at 147.32 107.95 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 147.32 107.95 0)
