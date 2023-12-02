@@ -1,4 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "My_Library")(type "KiCad")(uri "${KIPRJMOD}/My_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "rfid-rc522-module")(type "Legacy")(uri "C:/Users/Coyot Willy/Downloads/rfid-rc522-module.lib")(options "")(descr ""))
+  (lib (name "KICAD-OPEN-LIBS")(type "Legacy")(uri "C:/Users/Coyot Willy/Downloads/KICAD-OPEN-LIBS.lib")(options "")(descr ""))
 )
