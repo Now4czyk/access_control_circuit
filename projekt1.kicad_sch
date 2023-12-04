@@ -6,6 +6,7 @@
 
   (title_block
     (title "Prototyp układu kontroli dostępu")
+    (date "4.12.2023")
     (rev "v1.0")
     (company "Kacper Nowaczyk Robert Dobrowolski")
   )

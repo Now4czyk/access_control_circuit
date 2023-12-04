@@ -1,5 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "My_Footprints_Library")(type "KiCad")(uri "${KIPRJMOD}/My_Footprints_Library.pretty")(options "")(descr ""))
-  (lib (name "Nowy folder")(type "KiCad")(uri "C:/Users/Robert/Downloads/Nowy folder.pretty")(options "")(descr ""))
-)
